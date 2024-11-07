@@ -1,2 +1,2 @@
 this is a branch
-this is B branch
+this is branch B
